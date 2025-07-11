@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Prashant Srivastava</h1>
 <h3 align="center">AI • Automation • Analytics | Designing intelligent systems for real-world impact</h3>
 
+
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=flat&column=7&margin-w=10" alt="GitHub Trophy" />
+  </a>
+</p>
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=flat" alt="prashantsrivastava" />
 </p>
