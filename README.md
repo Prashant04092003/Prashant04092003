@@ -22,40 +22,6 @@ I'm a data and automation enthusiast with hands-on experience in building AI-dri
 
 ---
 
-##  Experience
-
-**AI & Automation Intern – Rudra Cybersecurity Pvt. Ltd.**  
-- Designed automation pipelines using **n8n** and local **LLMs** for cybersecurity ops  
-- Built RAG-based chatbot on internal documentation using **LangChain + FAISS**  
-- Developed markdown/HTML newsletter generator from structured sources (Jira, SAST)  
-- Created rule mitigation engine in **LangGraph** for real-time SOC automation  
-
----
-
-##  Projects
-
-###  Credit Card Recommendation Engine  
-- Hybrid recommender using **segmentation**, credit behavior, and FICO scores  
-- **SHAP-based explainability**, deployed via **Streamlit**  
-
-###  Drug Efficacy Prediction  
-- Predicted drug response from gene expression using **PCA + Ensemble models**  
-- Built robust ML pipeline with advanced feature engineering  
-
-###  Fraud Detection with Tabular + Graph ML  
-- Engineered MCC-based features from **2.7M+ transactions**  
-- Compared **XGBoost & Random Forest**, visualized with SHAP + ROC-AUC  
-
-###  NLP Chatbot for Internal Docs  
-- Created retrieval-augmented QA chatbot with **n8n + LangChain**  
-- Prompt-tuned for context awareness and document-level search  
-
-###  Customer Segmentation Pipeline  
-- Clustered users using **KMeans, Hierarchical Clustering** on behavioral spend  
-- Defined strategic personas using utilization, frequency, income share  
-
----
-
 ##  Tech Stack
 
 ###  Languages  
@@ -94,13 +60,47 @@ I'm a data and automation enthusiast with hands-on experience in building AI-dri
 
 ---
 
+##  Experience
+
+**AI & Automation Intern – Rudra Cybersecurity Pvt. Ltd.**  
+- Designed automation pipelines using **n8n** and local **LLMs** for cybersecurity ops  
+- Built RAG-based chatbot on internal documentation using **LangChain + FAISS**  
+- Developed markdown/HTML newsletter generator from structured sources (Jira, SAST)  
+- Created rule mitigation engine in **LangGraph** for real-time SOC automation  
+
+---
+
+##  Projects
+
+###  Credit Card Recommendation Engine  
+- Hybrid recommender using **segmentation**, credit behavior, and FICO scores  
+- **SHAP-based explainability**, deployed via **Streamlit**  
+
+###  Drug Efficacy Prediction  
+- Predicted drug response from gene expression using **PCA + Ensemble models**  
+- Built robust ML pipeline with advanced feature engineering  
+
+###  Fraud Detection with Tabular + Graph ML  
+- Engineered MCC-based features from **2.7M+ transactions**  
+- Compared **XGBoost & Random Forest**, visualized with SHAP + ROC-AUC  
+
+###  NLP Chatbot for Internal Docs  
+- Created retrieval-augmented QA chatbot with **n8n + LangChain**  
+- Prompt-tuned for context awareness and document-level search  
+
+###  Customer Segmentation Pipeline  
+- Clustered users using **KMeans, Hierarchical Clustering** on behavioral spend  
+- Defined strategic personas using utilization, frequency, income share  
+
+---
+
 ##  Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/prashantxxxx" target="blank">
+<a href="https://www.linkedin.com/in/Prashant04092003" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
-<a href="https://github.com/yourgithubusername" target="blank">
+<a href="https://github.com/Prashant04092003" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="github" height="30" width="40" />
 </a>
 </p>
@@ -110,13 +110,13 @@ I'm a data and automation enthusiast with hands-on experience in building AI-dri
 ##  GitHub Stats
 
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant04092003&layout=compact&theme=default" />
 </p>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=default" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prashant04092003&show_icons=true&theme=default" />
 </p>
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=yourgithubusername&theme=default" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Prashant04092003&theme=default" />
 </p>
 
 ---
