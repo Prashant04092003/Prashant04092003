@@ -101,10 +101,6 @@ Currently pursuing my M.Sc. in Statistics and Data Science at SVKM's NMIMS, Mumb
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant04092003&layout=compact&theme=prussian" />
 </p>
 
-### Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prashant04092003&theme=prussian" />
-</p>
 
 ### Activity Graph
 <p align="center">
