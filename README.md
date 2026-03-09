@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prashant Srivastava</h1>
-<h3 align="center">AI • Automation • Analytics | Building explainable systems for real-world impact</h3>
+<h3 align="center">AI & Data Science | Machine Learning • Recommender Systems • AI Applications</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prashant04092003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -9,121 +9,203 @@
 
 ## About Me
 
-I'm a statistics and data science professional passionate about building intelligent, explainable, and automation-driven systems. I work at the intersection of cybersecurity, healthcare, and finance — leveraging LLMs, low-code tools, and machine learning to solve real-world problems.
+I am a Statistics and Data Science graduate student passionate about building **machine learning systems and AI-driven applications for real-world problems**.
 
-Currently pursuing my M.Sc. in Statistics and Data Science at SVKM's NMIMS, Mumbai.
+My work focuses on:
+
+- Machine Learning and Predictive Modeling  
+- Financial AI and Fraud Detection  
+- Healthcare Data Science  
+- Recommender Systems  
+- AI Chatbots and Retrieval-Augmented Generation (RAG)
+
+I enjoy working on **large datasets, explainable models, and real-world AI systems that combine analytics with practical deployment.**
+
+Currently pursuing **M.Sc. in Statistics and Data Science at SVKM's NMIMS, Mumbai.**
 
 ---
 
 ## Tech Stack
 
-<p align="left">
-  <!-- Programming -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="35" title="R"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" title="SQL"/>
+### Languages
+Python • R • SQL
 
-  <!-- Data Science -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" title="Jupyter"/>
+### Machine Learning
+Scikit-learn • XGBoost • Clustering • Recommender Systems • Feature Engineering
 
-  <!-- ML/Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="35" title="Streamlit"/>
+### AI Systems
+LangChain • FAISS • RAG Pipelines • LLM Applications
 
-  <!-- Version Control -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" height="35" title="Git" style="filter: invert(37%) sepia(66%) saturate(3063%) hue-rotate(357deg) brightness(91%) contrast(98%);" />
- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" height="35" title="GitHub"/>
+### Data & Analytics
+Pandas • NumPy • EDA • Statistical Modeling
 
-</p>
+### Visualization & Tools
+Streamlit • Power BI • Matplotlib • Jupyter Notebook
+
+### Development Tools
+Git • GitHub • FastAPI
 
 ---
 
-## Experience
+# Featured Projects
 
-### AI & Automation Intern – Rudra Cybersecurity Pvt. Ltd. (2025)  
-- Built SOC automation pipelines using n8n and local LLMs  
-- Developed a RAG-based chatbot using LangChain + FAISS  
-- Automated newsletters from structured sources (Jira, SAST)  
-- Designed a rule mitigation engine using LangGraph
+## Financial Fraud Detection & Product Recommendation System
+🔗 https://github.com/Prashant04092003/Credit-Card-Based-Product-Recomendation
 
-### Business Analyst Intern – HyperCloud Digital Marketing Solutions (2025)  
-- Conducted SEO and social audits using UberSuggest and Google Search Console  
-- Benchmarked client metrics and supported business proposal building  
-- Analyzed Blackberrys' loyalty program and compared it to competitor strategies
+A large-scale financial analytics project analyzing **millions of credit card transactions** to detect fraud and recommend financial products.
 
----
+### Key Highlights
+- Fraud detection using **XGBoost and graph-based transaction analysis**
+- User segmentation using **PCA + K-Means clustering**
+- Neural Collaborative Filtering for product recommendation
 
-## Projects
+### Model Performance
+- ROC-AUC: **0.96**
+- Precision: **88%**
+- Recall: **72%**
+- Hit@10: **96.4%**
 
-### [Credit Card-Based Product Recommendation System](https://github.com/Prashant04092003/Credit-Card-Based-Recommendation-System)  
-- Fraud detection on 24M+ transactions using XGBoost + GNN  
-- ROC-AUC: 0.9619, Precision: 88%, Recall: 72%  
-- User clustering via KMeans after PCA + VIF  
-- Neural Collaborative Filtering with Hit@10: 96.4%, Precision@K: 91%
-
-### [Predicting Early Readmission Risk in Diabetic Patients](https://github.com/Prashant04092003/Predicting-Early-Readmission-Risk-in-Diabetic-Patients)  
-- 70K+ EHR records analyzed using Logistic Regression and Random Forest  
-- ROC-AUC: 0.65 with class imbalance challenges handled
-
-### [Drug Efficacy Analysis Using Real-World Evidence](https://github.com/Prashant04092003/Drug-Efficacy-Analysis-Using-Real-World-Evidence)  
-- Causal ML using IPTW + PSM to evaluate asthma drug performance  
-- Drug_S reduced risk by 47%; Drug_D favored for cost  
-- XGBoost model: R² = 0.682, RMSE = 0.45
-
-### [Deterministic Model of Diabetes Mellitus](https://github.com/Prashant04092003/Analysing-Deterministic-Mathematical-Model-of-Diabetes-Mellitus)  
-- ODE-based model of glucose-insulin-BMI dynamics  
-- Achieved 90.5% prediction accuracy using linear regression  
-- Visualized results with box plots and radar charts
+### Technologies
+Python • Pandas • XGBoost • Neural Collaborative Filtering • Feature Engineering
 
 ---
 
-## Certifications
+## Pharmaceutical Inventory AI Chatbot
+🔗 https://github.com/Prashant04092003/Pharma-Inventory-Mangement
 
-- The Data Analyst Course: Complete Data Analyst Bootcamp (2024)
+An AI-powered assistant designed to interact with pharmaceutical inventory systems using natural language queries.
+
+### Features
+- Retrieval-Augmented Generation chatbot
+- LangChain pipeline with **FAISS vector database**
+- Natural language interface for querying inventory
+- Backend API integration using **FastAPI**
+
+### Applications
+Healthcare analytics • AI-powered business automation • knowledge retrieval systems
+
+### Technologies
+Python • LangChain • FAISS • FastAPI
 
 ---
 
-## Visual Summary
+## Operations Optimization System (IOOS)
+🔗 https://github.com/Prashant04092003/IOOS
 
-### GitHub Trophy
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prashant04092003&theme=prussian&column=7&margin-w=10" />
-</p>
+A machine learning-driven **operations optimization and dispatch management system** designed to improve response efficiency.
 
-### GitHub Stats
+### Key Components
+- Predictive models for operational demand forecasting
+- Rule-based optimization for dispatch decisions
+- Smart route allocation logic
+- Fully interactive **Streamlit dashboard**
+
+This project demonstrates the integration of **machine learning, operational analytics, and decision optimization systems.**
+
+### Technologies
+Python • Machine Learning • Optimization Models • Streamlit
+
+---
+
+## Drug Efficacy Analysis Using Real-World Evidence
+🔗 https://github.com/Prashant04092003/Drug-Efficacy-Analysis-Using-Real-World-Evidence
+
+A healthcare analytics project using **causal inference techniques** to evaluate treatment effectiveness from observational data.
+
+### Methods Used
+- Propensity Score Matching (PSM)
+- Inverse Probability of Treatment Weighting (IPTW)
+- XGBoost regression analysis
+
+### Results
+- Drug_S reduced complication risk by **47%**
+- Drug_D showed better cost-effectiveness in treatment outcomes
+
+This project focuses on **causal machine learning for healthcare decision-making.**
+
+---
+
+## Predicting Early Readmission Risk in Diabetic Patients
+🔗 https://github.com/Prashant04092003/Predicting-Early-Readmission-Risk-in-Diabetic-Patients
+
+A predictive modeling project analyzing **70,000+ hospital records** to identify patients at risk of early readmission.
+
+### Methods
+- Logistic Regression
+- Random Forest classification
+- Feature engineering and class imbalance handling
+
+### Result
+ROC-AUC score of **0.65**, demonstrating challenges of real-world healthcare prediction tasks.
+
+---
+
+## Deterministic Model of Diabetes Mellitus
+🔗 https://github.com/Prashant04092003/Analysing-Deterministic-Mathematical-Model-of-Diabetes-Mellitus
+
+A mathematical modeling project analyzing glucose-insulin dynamics using deterministic differential equation models.
+
+### Highlights
+- ODE-based modeling of metabolic interactions
+- Statistical validation using regression models
+- Achieved **90.5% predictive accuracy**
+
+This project combines **mathematical modeling with statistical validation techniques.**
+
+---
+
+# Experience
+
+### AI & Automation Intern  
+**Rudra Cybersecurity Pvt. Ltd.**
+
+- Built SOC automation workflows using **n8n and local LLM models**
+- Developed a **RAG-based cybersecurity knowledge chatbot**
+- Automated newsletter generation from structured data sources
+- Designed a rule-based mitigation engine using **LangGraph**
+
+---
+
+### Business Analyst Intern  
+**HyperCloud Digital Marketing Solutions**
+
+- Conducted SEO and social media audits using UberSuggest and Google Search Console
+- Analyzed competitor strategies and customer loyalty programs
+- Supported digital strategy development and business proposals
+
+---
+
+# Research Interests
+
+- Machine Learning  
+- Graph-Based Modeling  
+- Recommender Systems  
+- Explainable AI  
+- Healthcare Data Science  
+- Financial Analytics
+
+---
+
+# GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prashant04092003&show_icons=true&theme=prussian" />
 </p>
 
-### Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant04092003&layout=compact&theme=prussian" />
 </p>
 
-
-### Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prashant04092003&theme=prussian" />
-</p>
-
 ---
 
-## Connect With Me
+# Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/prashant-srivastava-440540282/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
+
 <a href="https://github.com/Prashant04092003" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="github" height="30" width="40" />
 </a>
 </p>
-
----
-
-## Interests
-
-- Applied AI in Cybersecurity, Finance, and Healthcare  
-- Graph ML, Causal Inference, SHAP-based Explainability  
-- Real-world ML deployment using low-code and LLM pipelines
