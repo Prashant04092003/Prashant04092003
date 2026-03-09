@@ -185,20 +185,14 @@ This project combines **mathematical modeling with statistical validation techni
 - Financial Analytics
 
 ---
-
-# GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prashant04092003&show_icons=true&theme=prussian" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prashant04092003&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant04092003&layout=compact&theme=prussian" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prashant04092003&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant04092003&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant04092003&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 ---
 
