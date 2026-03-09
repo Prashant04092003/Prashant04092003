@@ -196,6 +196,10 @@ This project combines **mathematical modeling with statistical validation techni
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant04092003&layout=compact&theme=prussian" />
 </p>
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Prashant04092003&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashant04092003&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 ---
 
 # Connect With Me
