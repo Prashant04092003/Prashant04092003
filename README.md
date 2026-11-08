@@ -1,176 +1,116 @@
-<h1 align="center">Prashant Srivastava</h1>
-<h3 align="center">AI & Machine Learning Engineer | Data Scientist</h3>
+<div align="center">
+
+# Prashant Srivastava
+### **Data Science & AI**
 
 <p align="center">
-  <em>Building AI Systems & ML Applications | Fraud Detection | Recommender Systems | RAG Pipelines | LLM Integration</em>
+  Currently working at <b>Drona Pay</b> | M.Sc. Statistics & Data Science @ NMIMS Mumbai
 </p>
 
-<p align="center">
-  <strong>Status:</strong> Available for Freelance Projects & Full-Time Opportunities
-</p>
-
-<p align="center">
-  <a href="https://prashant04092003.github.io/prashant-srivastava.github.io/">Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/prashant-srivastava-440540282/">LinkedIn</a> • 
-  <a href="mailto:prashant.srivastava@nmims.edu.in">Email</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-srivastava-440540282/)
+[![Email](https://img.shields.io/badge/Email-prashant04vasu12b%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashant04vasu12b@gmail.com)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
 
 ---
 
-## About
+</div>
 
-M.Sc. Statistics & Data Science student at SVKM's NMIMS Mumbai, specializing in **machine learning systems, financial AI, and large-scale data applications**. Experienced in building production-grade ML models, RAG pipelines, and AI-driven analytics solutions.
+## 👋 About Me
 
-**Core Expertise:** Fraud Detection • Recommender Systems • LLM Applications • Causal Inference • Healthcare Analytics
+Hey, I'm Prashant! I work in **Data Science and AI**, currently at **Drona Pay**, a fintech startup where I work on transaction monitoring, fraud risk, and Anti-Money Laundering (AML) systems. I'm also completing my master's in Statistics & Data Science at NMIMS Mumbai.
 
----
-
-<details>
-<summary><b>Tech Stack & Expertise</b></summary>
-<br>
-
-**Languages**  
-Python • R • SQL
-
-**Machine Learning & AI**  
-Scikit-learn • XGBoost • TensorFlow • PyTorch • LightGBM • Feature Engineering • Statistical Modeling
-
-**LLM & RAG Systems**  
-LangChain • FAISS • Hugging Face • OpenAI API • Retrieval-Augmented Generation • Vector Databases
-
-**Data Engineering & Analytics**  
-Pandas • NumPy • DuckDB • PostgreSQL • Data Pipelines • ETL Processes
-
-**Deployment & Development**  
-FastAPI • Streamlit • Docker • Git • REST APIs • CI/CD
-
-**Visualization & BI**  
-Tableau • Power BI • Matplotlib • Plotly • Seaborn • Interactive Dashboards
-
-</details>
+I like building things that actually solve real problems and run fast in production — whether that's querying **24M+ transactions in under 40 milliseconds** with DuckDB, training models to catch financial fraud, or building autonomous AI agents that can read contracts, run tools, and automate workflows.
 
 ---
 
-<details>
-<summary><b>Featured Projects</b></summary>
-<br>
+## 🛠️ What I Work With
 
-### Financial Fraud Detection & Product Recommendation System
-**Large-scale financial analytics system analyzing 24M+ credit card transactions**
-
-- Fraud detection using XGBoost and graph-based transaction analysis
-- User segmentation via PCA + K-Means clustering
-- Neural Collaborative Filtering for product recommendations
-- **Performance:** ROC-AUC 0.96 | Precision 88% | Hit@10 96.4%
-
-**Tech Stack:** Python • Pandas • XGBoost • Neural Collaborative Filtering • Feature Engineering
-
-**Links:** [GitHub](https://github.com/Prashant04092003/Credit-Card-Based-Product-Recomendation) • [Live Demo](https://prashant04092003.github.io/prashant-srivastava.github.io/#projects) • [Details](https://prashant04092003.github.io/prashant-srivastava.github.io/#projects)
+- **Languages & Core:** Python, SQL, R
+- **Big Data & Databases:** DuckDB, PySpark, PostgreSQL, Pandas, NumPy
+- **Machine Learning:** LightGBM, XGBoost, Scikit-learn, PyTorch, Imbalanced Learning, SHAP
+- **Generative AI & Agents:** LangChain, LangGraph, MCP (Model Context Protocol), RAG, FAISS, ChromaDB, Ollama, n8n
+- **Deployment & Engineering:** FastAPI, Docker, Git, Databricks, REST APIs
+- **BI & Visuals:** Power BI, DAX, Plotly, Tableau, Advanced Excel
 
 ---
 
-### Pharmaceutical Inventory AI Chatbot
-**AI-powered assistant for natural language inventory management**
+## 💼 Experience
 
-- Retrieval-Augmented Generation chatbot with LangChain pipeline
-- FAISS vector database for intelligent query retrieval
-- FastAPI backend with Streamlit interface
-- Natural language interface for complex inventory queries
+### **Drona Pay** — *Business Analyst Intern*
+*Oct 2026 – Present | Mumbai, India*
+* Engineered real-time and batch transaction features in Python and SQL across velocity, amount, frequency, and count to assess transaction risk.
+* Supported batch Anti-Money Laundering (AML) workflows, focusing on mule-account detection by analyzing suspicious account patterns and transaction histories.
+* Contributed to machine learning workflows for mule detection, covering feature engineering, model evaluation, and deployment using Python, Databricks, and PostgreSQL.
 
-**Tech Stack:** Python • LangChain • FAISS • FastAPI • Streamlit • RAG
+### **HyperCloud Digital Solutions** — *Business Analyst Intern*
+*Jan 2026 – Jul 2026 | Mumbai, India*
+* Built Power BI dashboards and reports using DAX to track client performance, KPIs, and user engagement across web and social platforms.
+* Used Python, SQL, and Excel to analyze traffic, reach, and conversion metrics, helping drive a 25% boost in reach and top-5 SEO rankings for clients.
 
-**Links:** [GitHub](https://github.com/Prashant04092003/Pharma-Inventory-Mangement) • [Live Demo](https://prashant04092003.github.io/prashant-srivastava.github.io/#projects)
-
----
-
-### Intelligent E-Commerce Chatbot
-**RAG-powered conversational AI for product discovery and customer support**
-
-- Sentence Transformers for semantic product search
-- ResNet50-V2 for visual product recognition
-- Context-aware recommendation engine
-- Real-time inventory integration
-
-**Tech Stack:** Python • LangChain • Sentence Transformers • ResNet50-V2 • RAG Pipeline
-
-**Links:** [GitHub](https://github.com/Prashant04092003/Intelligent-E-Commerce-Chatbot) • [Live Demo](https://prashant04092003.github.io/prashant-srivastava.github.io/#projects)
+### **R.U.D.R.A Cybersecurity Pvt. Ltd.** — *AI & Automation Intern*
+*May 2025 – Jul 2025 | Mumbai, India*
+* Built automated reporting workflows using **n8n**, connecting Jira, Google Drive, and cloud infrastructure to cut repetitive reporting tasks by ~70%.
+* Built an **MCP-enabled** AI customer-support agent connecting LLMs to internal tools and services, reducing senior engineers' ticket load by 40%.
+* Developed internal RAG chatbots using **LangChain, LangGraph, and ChromaDB** for quick, context-aware document search.
 
 ---
 
-### IOOS Operations Optimization System
-**ML-driven dispatch management and operational forecasting system**
+## 🚀 Projects I've Built
 
-- Predictive models for demand forecasting using XGBoost
-- Rule-based optimization for resource allocation
-- Smart route planning algorithms
-- Interactive Streamlit dashboard for real-time monitoring
+### 💳 [Retail Banking Analytics & Product Recommendation Platform](https://github.com/Prashant04092003/Credit-Card-Based-Product-Recomendation)
+* Large-scale banking analytics system tested on **24.38M credit card transactions ($1.06B spend)**.
+* Built a vectorized DuckDB analytical engine running sub-40ms queries across millions of rows.
+* Trained LightGBM fraud models on highly imbalanced data (0.129% base rate), hitting **0.842 PR-AUC** and **88% Precision**.
+* Implemented customer segmentation (GMM / K-Means) and a Neural Collaborative Filtering (NCF) recommender with **96.4% Hit@10**, all containerized with **Docker** and a **FastAPI + React** console.
 
-**Tech Stack:** Python • XGBoost • Optimization Models • Streamlit • Operational Analytics
+### 🚕 [Urban Mobility Intelligence System](https://github.com/Prashant04092003/Urban_Mobility_Intelligence_system)
+* Processed and analyzed **21.7M NYC taxi trips** across 947 geographic grid zones using **PySpark**.
+* Built transit demand forecasting (12.6-trip MAE) and trip duration models (2.31-min MAE) to identify peak bottlenecks and optimize fleet dispatch.
 
-**Links:** [GitHub](https://github.com/Prashant04092003/IOOS) • [Live Demo](https://prashant04092003.github.io/prashant-srivastava.github.io/#projects)
+### ⚖️ [Legal Document Agent](https://github.com/Prashant04092003/legal-document-agent)
+* Autonomous multi-agent system built with **LangChain** to analyze complex legal agreements.
+* Specialized sub-agents extract clauses, audit liabilities, and verify regulatory compliance with built-in validation loops to stop hallucinations.
 
----
+### 🌐 [ATLAS — Autonomous AI Agent Framework](https://github.com/Prashant04092003/ATLAS)
+* An autonomous Python agent architecture designed for task decomposition, step-by-step reasoning, and tool execution.
 
-**Additional Projects:** [Drug Efficacy Analysis](https://github.com/Prashant04092003/Drug-Efficacy-Analysis-Using-Real-World-Evidence) • [Diabetic Readmission Prediction](https://github.com/Prashant04092003/Predicting-Early-Readmission-Risk-in-Diabetic-Patients) • [Diabetes Mathematical Modeling](https://github.com/Prashant04092003/Analysing-Deterministic-Mathematical-Model-of-Diabetes-Mellitus)
+### 🛍️ [Intelligent E-Commerce Assistant](https://github.com/Prashant04092003/Intelligent-E-Commerce-Chatbot)
+* Multimodal product search assistant combining **Sentence Transformers** (text) and **ResNet50-V2** (image features) for sub-100ms visual and semantic product search with **FAISS**.
 
-</details>
+### 💊 [Pharma Inventory Management](https://github.com/Prashant04092003/Pharma-Inventory-Mangement)
+* Drug inventory forecasting tool coupled with a natural language **LangChain + FAISS** RAG assistant to track batch expiry and prevent stockouts.
 
----
+### 🩺 Healthcare & Clinical Analytics
+* **[Diabetic Readmission Risk](https://github.com/Prashant04092003/Predicting-Early-Readmission-Risk-in-Diabetic-Patients):** Predicting 30-day diabetic patient readmission using cost-sensitive tree models and SHAP explanations.
+* **[Drug Efficacy with Real-World Evidence](https://github.com/Prashant04092003/Drug-Efficacy-Analysis-Using-Real-World-Evidence):** Observational health data analytics using Propensity Score Matching (PSM) and Kaplan-Meier survival curves.
+* **[Diabetes Mathematical Model](https://github.com/Prashant04092003/Analysing-Deterministic-Mathematical-Model-of-Diabetes-Mellitus):** Glucose-insulin kinetic simulation using non-linear differential equations (ODEs).
 
-<details>
-<summary><b>Professional Experience</b></summary>
-<br>
-
-### AI & Automation Intern
-**R.U.D.R.A Cybersecurity Pvt. Ltd.**
-
-- Developed SOC automation workflows using n8n and local LLM models
-- Built RAG-based cybersecurity knowledge chatbot for threat intelligence
-- Automated newsletter generation from structured security data sources
-- Designed rule-based mitigation engine using LangGraph
-
-**Key Technologies:** LangChain • RAG Pipelines • LLM Integration • Automation Workflows
-
----
-
-### Business Analyst Intern
-**HyperCloud Digital Marketing Solutions**
-
-- Conducted comprehensive SEO and social media audits using UberSuggest and Google Search Console
-- Analyzed competitor strategies and customer loyalty program effectiveness
-- Supported digital strategy development and business proposal creation
-- Delivered data-driven insights for marketing campaign optimization
-
-**Key Skills:** SEO Analytics • Competitive Analysis • Digital Strategy • Stakeholder Communication
-
-</details>
+### 📦 [IOOS Operations Optimization](https://github.com/Prashant04092003/IOOS)
+* Demand forecasting and route planning dashboard to optimize multi-stop logistics delivery.
 
 ---
 
-## Let's Work Together
+## 🎓 Education
 
-I'm actively seeking opportunities in **Data Science**, **Machine Learning Engineering**, and **AI Applications Development**. Open to both freelance projects and full-time positions.
-
-### What I Bring
-- Production-ready ML systems with proven business impact
-- End-to-end project execution from EDA to deployment
-- Strong foundation in statistical modeling and causal inference
-- Experience with modern AI tools (LangChain, RAG, LLMs)
-
-### Current Focus
-- Financial AI & fraud detection systems
-- LLM-powered applications and chatbots
-- Healthcare analytics and predictive modeling
-- Recommender systems at scale
+* **M.Sc. in Statistics and Data Science** (2024 – 2026) — *NMIMS Mumbai*
+* **B.Sc. in Statistics and Mathematics** (2021 – 2024) — *University of Lucknow*
 
 ---
 
-### Connect With Me
+## ⚽ Outside of Work
 
-**Portfolio:** [prashant04092003.github.io](https://prashant04092003.github.io/prashant-srivastava.github.io/)  
-**LinkedIn:** [linkedin.com/in/prashant-srivastava-440540282](https://www.linkedin.com/in/prashant-srivastava-440540282/)  
-**Email:** prashant.srivastava@nmims.edu.in
+When I'm not writing code or looking at data:
+* ⚽ Huge **football** and 🏏 **cricket** fan (both watching and playing).
+* 🍿 Massive movie buff — love watching both **Bollywood** and **Hollywood** films.
+* ⛩️ Big into **anime** and reading **manga**.
+* 🎮 Love **gaming** and messing around with new AI tools and tech that come out.
 
 ---
 
-<sub>M.Sc. Statistics & Data Science • SVKM's NMIMS Mumbai • Class of 2026</sub>
+## 📬 Get in Touch
+
+Feel free to reach out if you want to chat about AI, data science, fintech, or just talk football/cricket!
+
+- **Email:** [prashant04vasu12b@gmail.com](mailto:prashant04vasu12b@gmail.com)
+- **LinkedIn:** [linkedin.com/in/prashant-srivastava-440540282](https://www.linkedin.com/in/prashant-srivastava-440540282/)
+- **Location:** Mumbai, India
